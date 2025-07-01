@@ -1,1 +1,3 @@
 **/target
+**/.exercism/
+*.md
